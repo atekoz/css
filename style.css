@@ -1,0 +1,36 @@
+._blue {
+  background-color: #0088ff!important;
+}
+._blue.darken-1 {
+  background-color: #1E88E5!important;
+}
+.first-top,
+.first-top ul li,
+.first-top .nav-wrapper i,
+.first-top a.button-collapse,
+.first-top a.button-collapse i {
+  height: 30px;
+  line-height: 30px;
+  font-size: .8rem;
+}
+.first-top ul li a {
+  font-size: .8rem;
+}
+.logo-main {
+  padding: 0 15px !important;
+}
+.logo-main h1 {
+  margin: 0;
+  line-height: inherit;
+  font-size: inherit;
+  display: inline-block;
+}
+.img-logo-main, .img-post-span {
+  float: left;
+  margin-right: 15px;
+}
+.img-logo-main {
+  width: 45px;
+  height: 45px;
+  margin-top: 10px;
+}
